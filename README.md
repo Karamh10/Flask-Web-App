@@ -63,11 +63,19 @@ energydb=#  quit
 ```
 After doing so, you should be all good to run ```flask run``` and then navigate to ```http://127.0.0.1:5000/```
 
-## Contributors
-Karam Hallak
-Yehuda Binik
-Saki Mertis
-Joe Fardella
-Matthew Petrovic
-James C. S.
-Andrew Gratti
+### Screenshots:
+![Home](/docs/Home.png)
+![By Energy](/docs/energy type.png)
+![By Date](/docs/by date.png)
+![Graph 1](/docs/chart1.png)
+![Graph 2](/docs/chart2.png)
+
+
+## Contributors:
+- Karam Hallak
+- Yehuda Binik
+- Saki Mertis
+- Joe Fardella
+- Matthew Petrovic
+- James C. S.
+- Andrew Gratti
