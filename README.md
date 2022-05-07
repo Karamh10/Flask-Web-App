@@ -65,8 +65,8 @@ After doing so, you should be all good to run ```flask run``` and then navigate 
 
 ### Screenshots:
 ![Home](/docs/Home.png)
-![By Energy](/docs/energytype.png)
-![By Date](/docs/bydate.png)
+![By Energy](/docs/energy_type.png)
+![By Date](/docs/by_date.png)
 ![Graph 1](/docs/chart1.png)
 ![Graph 2](/docs/chart2.png)
 
